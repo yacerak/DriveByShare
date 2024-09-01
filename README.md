@@ -14,8 +14,8 @@ This project is a Car Management System that provides a graphical interface for 
 
 **Libraries to Install:**
 
-pip install customtkinter
-pip install qrcode[pil]
-pip install Pillow
+* pip install customtkinter
+* pip install qrcode[pil]
+* pip install Pillow
 
 
